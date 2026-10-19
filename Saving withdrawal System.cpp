@@ -1,4 +1,11 @@
 
+/*
+	NAME:MARIPET KERETO
+	REG:CT101/G/26655/25
+	COURSE: COMPUTER SCIENCE
+
+
+*/	
 
 
 #include <iostream>
